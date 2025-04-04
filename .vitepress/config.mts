@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "TP2",
   description: "Revue de code pour le TP2",
+  base: '/appweb-trpr02-docs/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
