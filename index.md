@@ -3,23 +3,11 @@
 layout: home
 
 hero:
-  name: "TP2"
-  text: "Revue de code pour le TP2"
-  tagline: My great project tagline
+  name: "TP2 Docs"
+  text: "Revue de code pour le TP2 de Gabriel Tremblay"
+  tagline: 'Revue de code :'
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
----
+      text: '1'
+      link: /revue-de-code-1
 
